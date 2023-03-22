@@ -1,0 +1,2 @@
+# MitBuddy
+FFXIV mitigation calculator
